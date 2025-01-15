@@ -60,11 +60,37 @@
                 <option value="">Vali mark</option>
                 <!-- Predefined brands or dynamic options can go here -->
                 <option value="Toyota">Toyota</option>
-                <option value="Ford">Ford</option>
-                <option value="BMW">BMW</option>
-                <option value="Mercedes">Mercedes</option>
-                <option value="Volkswagen">Volkswagen</option>
-                <!-- Add more brands as needed -->
+        <option value="Mercedes-Benz">Mercedes-Benz</option>
+        <option value="Audi">Audi</option>
+        <option value="Jeep">Jeep</option>
+        <option value="Ford">Ford</option>
+        <option value="Volkswagen">Volkswagen</option>
+        <option value="Kayo">Kayo</option>
+        <option value="Opel">Opel</option>
+        <option value="Volvo">Volvo</option>
+        <option value="Ligier">Ligier</option>
+        <option value="Nissan">Nissan</option>
+        <option value="Renault">Renault</option>
+        <option value="SEAT">SEAT</option>
+        <option value="Hyundai">Hyundai</option>
+        <option value="Super SOCO">Super SOCO</option>
+        <option value="Smart">Smart</option>
+        <option value="BMW">BMW</option>
+        <option value="Chevrolet">Chevrolet</option>
+        <option value="Subaru">Subaru</option>
+        <option value="CFMOTO">CFMOTO</option>
+        <option value="Saab">Saab</option>
+        <option value="Honda">Honda</option>
+        <option value="Mitsubishi">Mitsubishi</option>
+        <option value="Jaguar">Jaguar</option>
+        <option value="MINI">MINI</option>
+        <option value="Lexus">Lexus</option>
+        <option value="Chrysler">Chrysler</option>
+        <option value="Fiat">Fiat</option>
+        <option value="Dacia">Dacia</option>
+        <option value="Omavalmistatud">Omavalmistatud</option>
+        <option value="Lancia">Lancia</option>
+
             </select>
         </div>
         <div class="form-group">
@@ -106,68 +132,69 @@
     <script>
         // Funktsioon päringu saatmiseks API-le
         function searchCars() {
-            const form = document.getElementById("searchForm");
-            const params = new URLSearchParams();
+    const form = document.getElementById("searchForm");
+    const params = new URLSearchParams();
 
-            // Kogume kõik sisestatud väärtused ja lisame need päringusse
-            Array.from(form.elements).forEach(element => {
-                if (element.name && element.value.trim()) {
-                    params.append(element.name, element.value.trim());
-                }
-            });
-
-            // Saadame GET päringu API-le
-            fetch(`http://localhost/api.php?${params.toString()}`)
-                .then(response => response.json())
-                .then(data => {
-                    // Kuvame API vastuse
-                    const resultDiv = document.getElementById("result");
-                    if (data.error) {
-                        resultDiv.innerHTML = `<p class="error">Viga: ${data.error}</p>`;
-                    } else {
-                        // Kuvame tulemused tabelis
-                        let resultHtml = `<p>Leiti ${data.count} vastavat kirjet.</p>`;
-                        if (data.cars && data.cars.length > 0) {
-                            resultHtml += `
-                                <table class="results-table">
-                                    <thead>
-                                        <tr>
-                                            <th>URL</th>
-                                            <th>Mark</th>
-                                            <th>Mootor</th>
-                                            <th>Kütus</th>
-                                            <th>Aasta</th>
-                                            <th>Hind</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                            `;
-
-                            data.cars.forEach(car => {
-                                resultHtml += `
-                                    <tr>
-                                        <td><a href="${car.url}" target="_blank">${car.url}</a></td>
-                                        <td>${car.brand}</td>
-                                        <td>${car.engine}</td>
-                                        <td>${car.fuel}</td>
-                                        <td>${car.year}</td>
-                                        <td>${car.price}</td>
-                                    </tr>
-                                `;
-                            });
-
-                            resultHtml += `</tbody></table>`;
-                        } else {
-                            resultHtml += "<p>Ei leitud sobivaid autosid.</p>";
-                        }
-                        resultDiv.innerHTML = resultHtml;
-                    }
-                })
-                .catch(error => {
-                    console.error("Error:", error);
-                    document.getElementById("result").innerHTML = "<p class='error'>Päring ebaõnnestus.</p>";
-                });
+    Array.from(form.elements).forEach(element => {
+        if (element.name && element.value.trim()) {
+            params.append(element.name, element.value.trim());
         }
+    });
+
+    // Ensure backend URL is correct (update port if needed)
+    fetch(`http://localhost/api.php?${params.toString()}`)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! Status: ${response.status}`);
+            }
+            return response.json();
+        })
+        .then(data => {
+            const resultDiv = document.getElementById("result");
+            if (data.error) {
+                resultDiv.innerHTML = `<p class="error">Viga: ${data.error}</p>`;
+            } else {
+                let resultHtml = `<p>Leiti ${data.count} vastavat kirjet.</p>`;
+                if (data.cars && data.cars.length > 0) {
+                    resultHtml += `
+                        <table class="results-table">
+                            <thead>
+                                <tr>
+                                    <th>URL</th>
+                                    <th>Mark</th>
+                                    <th>Mootor</th>
+                                    <th>Kütus</th>
+                                    <th>Aasta</th>
+                                    <th>Hind</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                    `;
+                    data.cars.forEach(car => {
+                        resultHtml += `
+                            <tr>
+                                <td><a href="${car.url}" target="_blank">${car.url}</a></td>
+                                <td>${car.brand}</td>
+                                <td>${car.engine}</td>
+                                <td>${car.fuel}</td>
+                                <td>${car.year}</td>
+                                <td>${car.price}</td>
+                            </tr>
+                        `;
+                    });
+                    resultHtml += `</tbody></table>`;
+                } else {
+                    resultHtml += "<p>Ei leitud sobivaid autosid.</p>";
+                }
+                resultDiv.innerHTML = resultHtml;
+            }
+        })
+        .catch(error => {
+            console.error("Error:", error);
+            document.getElementById("result").innerHTML = "<p class='error'>Päring ebaõnnestus.</p>";
+        });
+}
+
     </script>
 
 </body>
