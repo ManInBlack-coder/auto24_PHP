@@ -1,16 +1,174 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="et">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Autode Otsing</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .form-group {
+            margin: 10px 0;
+        }
+        .form-group label {
+            display: block;
+        }
+        .form-group input, .form-group select {
+            padding: 8px;
+            width: 100%;
+            max-width: 300px;
+            margin-top: 5px;
+        }
+        .button {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        .button:hover {
+            background-color: #45a049;
+        }
+        .results-table {
+            margin-top: 20px;
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .results-table th, .results-table td {
+            padding: 8px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+        .results-table th {
+            background-color: #f2f2f2;
+        }
+        .error {
+            color: red;
+        }
+    </style>
 </head>
 <body>
 
-    <div>
+    <h1>Autode Otsing</h1>
 
-        AUTODE ANDMEBAAS
-    </div>
-    
+    <form id="searchForm">
+        <div class="form-group">
+            <label for="brand">Mark:</label>
+            <select id="brand" name="brand">
+                <option value="">Vali mark</option>
+                <!-- Predefined brands or dynamic options can go here -->
+                <option value="Toyota">Toyota</option>
+                <option value="Ford">Ford</option>
+                <option value="BMW">BMW</option>
+                <option value="Mercedes">Mercedes</option>
+                <option value="Volkswagen">Volkswagen</option>
+                <!-- Add more brands as needed -->
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="model">Mudel:</label>
+            <input type="text" id="model" name="model">
+        </div>
+        <div class="form-group">
+            <label for="engine">Mootor:</label>
+            <input type="text" id="engine" name="engine">
+        </div>
+        <div class="form-group">
+            <label for="fuel">Kütus:</label>
+            <select id="fuel" name="fuel">
+                <option value="">Vali kütus</option>
+                <option value="Bensiin">Bensiin</option>
+                <option value="Diisel">Diisel</option>
+                <option value="Elektriline">Elektriline</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="mileage">Läbisõit (km):</label>
+            <input type="number" id="mileage" name="mileage">
+        </div>
+        <div class="form-group">
+            <label for="year">Aasta:</label>
+            <input type="number" id="year" name="year">
+        </div>
+        <div class="form-group">
+            <label for="price">Hind (€):</label>
+            <input type="number" id="price" name="price">
+        </div>
+        <div class="form-group">
+            <button type="button" class="button" onclick="searchCars()">Otsi</button>
+        </div>
+    </form>
+
+    <div id="result"></div>
+
+    <script>
+        // Funktsioon päringu saatmiseks API-le
+        function searchCars() {
+            const form = document.getElementById("searchForm");
+            const params = new URLSearchParams();
+
+            // Kogume kõik sisestatud väärtused ja lisame need päringusse
+            Array.from(form.elements).forEach(element => {
+                if (element.name && element.value.trim()) {
+                    params.append(element.name, element.value.trim());
+                }
+            });
+
+            // Saadame GET päringu API-le
+            fetch(`http://localhost/api.php?${params.toString()}`)
+                .then(response => response.json())
+                .then(data => {
+                    // Kuvame API vastuse
+                    const resultDiv = document.getElementById("result");
+                    if (data.error) {
+                        resultDiv.innerHTML = `<p class="error">Viga: ${data.error}</p>`;
+                    } else {
+                        // Kuvame tulemused tabelis
+                        let resultHtml = `<p>Leiti ${data.count} vastavat kirjet.</p>`;
+                        if (data.cars && data.cars.length > 0) {
+                            resultHtml += `
+                                <table class="results-table">
+                                    <thead>
+                                        <tr>
+                                            <th>URL</th>
+                                            <th>Mark</th>
+                                            <th>Mootor</th>
+                                            <th>Kütus</th>
+                                            <th>Aasta</th>
+                                            <th>Hind</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                            `;
+
+                            data.cars.forEach(car => {
+                                resultHtml += `
+                                    <tr>
+                                        <td><a href="${car.url}" target="_blank">${car.url}</a></td>
+                                        <td>${car.brand}</td>
+                                        <td>${car.engine}</td>
+                                        <td>${car.fuel}</td>
+                                        <td>${car.year}</td>
+                                        <td>${car.price}</td>
+                                    </tr>
+                                `;
+                            });
+
+                            resultHtml += `</tbody></table>`;
+                        } else {
+                            resultHtml += "<p>Ei leitud sobivaid autosid.</p>";
+                        }
+                        resultDiv.innerHTML = resultHtml;
+                    }
+                })
+                .catch(error => {
+                    console.error("Error:", error);
+                    document.getElementById("result").innerHTML = "<p class='error'>Päring ebaõnnestus.</p>";
+                });
+        }
+    </script>
+
 </body>
 </html>
