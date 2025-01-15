@@ -4,11 +4,32 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Autode Otsing</title>
-    <style>
-        body {
+   <style>
+
+
+
+
+    body {
             font-family: Arial, sans-serif;
             margin: 20px;
+            color: black;
         }
+
+        #main_cnt {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        background-color: rgba(25, 109, 95, 0.548);
+        padding: 20px;
+        border-radius: 10px; /* Rounded corners */
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+        max-width: 800px; /* Limit the container width */
+        margin: 20px auto; /* Center the container */
+        height: auto; /* Allow content to define the height */
+        min-height: 400px; /* Set a minimum height for consistency */
+    }
+
         .form-group {
             margin: 10px 0;
         }
@@ -47,9 +68,14 @@
         .error {
             color: red;
         }
-    </style>
+</style>
+
 </head>
 <body>
+
+
+<div id="main_cnt">
+
 
     <h1>Autode Otsing</h1>
 
@@ -127,6 +153,9 @@
         </div>
     </form>
 
+
+</div>
+ 
     <div id="result"></div>
 
     <script>
