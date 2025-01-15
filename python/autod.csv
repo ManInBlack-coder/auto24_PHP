@@ -1,0 +1,438 @@
+url,brand,engine,mileage,fuel,model,model_short,transmission,year,bodytype,drive,price
+https://www.auto24.ee/soidukid/3959644,Toyota,1.4 71kW,182532,Bensiin,Corolla,Corolla,Manuaal,2004,Sedaan,Esivedu,2800
+https://www.auto24.ee/soidukid/3789717,Mercedes-Benz,2.1 150kW,,Diisel,ML 250,ML 250,Automaat,2012,Universaal,Nelikvedu,12300
+https://www.auto24.ee/soidukid/3909011,Audi,2.0 130kW,195000,Diisel,Q3,Q3,Automaat,2012,Luukpära,Nelikvedu,13200
+https://www.auto24.ee/soidukid/3937643,Jeep,3.0 184kW,199900,Diisel,Grand Cherokee,Grand Cherokee,Automaat,2015,Universaal,Nelikvedu,18900
+https://www.auto24.ee/soidukid/3974927,Ford,2.0 125kW,190700,Diisel,Transit,Transit,Manuaal,2019,Kaubik,Esivedu,19900
+https://www.auto24.ee/soidukid/3975363,Volkswagen,3.0 170kW,255600,Diisel,Amarok,Amarok,Manuaal,2017,Pikap,Nelikvedu,24000
+https://www.auto24.ee/soidukid/3957783,Mercedes-Benz,2.1 150kW,154900,Diisel,GLC 250 D Coupe 4Matic AMG,GLC 250,Automaat,2016,Luukpära,Nelikvedu,33500
+https://www.auto24.ee/soidukid/3065795,Kayo,4-takti 5kW,,Bensiin,AT125,AT125,Automaat,2023,ATV,Tagavedu,1290
+https://www.auto24.ee/soidukid/2980884,Kayo,R1 7kW,,Bensiin,TT140,TT140,Manuaal,2023,Krossimootorratas,Tagavedu,1350
+https://www.auto24.ee/soidukid/3834870,Opel,1.6 55kW,182426,Bensiin,Astra Young Timer,Astra,Automaat,1997,Luukpära,Esivedu,1499
+https://www.auto24.ee/soidukid/3973226,Volkswagen,2.0 103kW,346900,Diisel,Golf,Golf,Manuaal,2005,Luukpära,Esivedu,2100
+https://www.auto24.ee/soidukid/3949890,Volvo,2.0 100kW,321507,Diisel,V50,V50,Automaat,2008,Universaal,Esivedu,2299
+https://www.auto24.ee/soidukid/3940478,Ligier,4kW,,Diisel,X-Too,X-Too,Automaat,,Mopeedauto,Esivedu,2390
+https://www.auto24.ee/soidukid/3885960,Nissan,1.4 65kW,196696,Bensiin,Note Elegance,Note,Manuaal,2006,Luukpära,Esivedu,2499
+https://www.auto24.ee/soidukid/3902303,Renault,1.1 55kW,144706,Bensiin,Clio Eco,Clio,Manuaal,2008,Luukpära,Esivedu,2499
+https://www.auto24.ee/soidukid/3817157,SEAT,1.6 75kW,199334,Bensiin,Altea Premium,Altea,Manuaal,2006,Luukpära,Esivedu,2799
+https://www.auto24.ee/soidukid/3850221,Ford,1.6 Zetec 74kW,111350,Bensiin,Focus,Focus,Automaat,2007,Universaal,Esivedu,2999
+https://www.auto24.ee/soidukid/3815119,Toyota,2.0 85kW,236082,Diisel,Corolla Verso Verso D-4D,Corolla Verso,Manuaal,2005,Universaal,Esivedu,2999
+https://www.auto24.ee/soidukid/3955966,Volkswagen,1.9 TDI 77kW,199191,Diisel,Jetta,Jetta,Manuaal,2009,Sedaan,Esivedu,3200
+https://www.auto24.ee/soidukid/3964291,Hyundai,1.4 CRDI 66kW,276000,Diisel,i20,i20,Manuaal,2011,Luukpära,Esivedu,3290
+https://www.auto24.ee/soidukid/3971379,Audi,2.0 125kW,406000,Diisel,A3 Quattro,A3,Manuaal,2007,Luukpära,Nelikvedu,3299
+https://www.auto24.ee/soidukid/3670075,Volvo,2.0 100kW,305840,Diisel,V50,V50,Manuaal,2008,Universaal,Esivedu,3400
+https://www.auto24.ee/soidukid/3969463,Volkswagen,2.0 TDI 103kW,269000,Diisel,Jetta Comfortline,Jetta,Manuaal,2007,Sedaan,Esivedu,3490
+https://www.auto24.ee/soidukid/3974104,Volkswagen,,357800,Diisel,Polo,Polo,Manuaal,2009,Luukpära,Esivedu,3500
+https://www.auto24.ee/soidukid/3065772,Super SOCO,3kW,1,Elekter,TS,TS,Automaat,2023,Mopeed,Tagavedu,3590
+https://www.auto24.ee/soidukid/3385932,Smart,0.8 30kW,72761,Diisel,Fortwo Cabrio CDI,Fortwo,Automaat,2005,Kabriolett,Tagavedu,3600
+https://www.auto24.ee/soidukid/3804935,Volvo,1.8 92kW,263121,Bensiin,C30 Momentum,C30,Manuaal,2007,Kupee,Esivedu,3699
+https://www.auto24.ee/soidukid/3065779,Super SOCO,3kW,,Elekter,Wanderer,Wanderer,Automaat,2023,Mopeed,Tagavedu,3790
+https://www.auto24.ee/soidukid/3910065,Super SOCO,2kW,,Elekter,F01,F01,Automaat,2023,Roller,Tagavedu,3890
+https://www.auto24.ee/soidukid/3839640,Ford,4.0 154kW,286000,Bensiin + gaas (LPG/vedelgaas),Explorer,Explorer,Automaat,2006,Universaal,Nelikvedu,3900
+https://www.auto24.ee/soidukid/3967006,Kia,1.6 CRDI 85kW,301000,Diisel,Ceed,Ceed,Manuaal,2010,Universaal,Esivedu,3990
+https://www.auto24.ee/soidukid/3841902,BMW,2.5 130kW,374507,Diisel,525,525,Automaat,2006,Sedaan,Tagavedu,3999
+https://www.auto24.ee/soidukid/3973577,Kia,1.6 CRDI 85kW,211000,Diisel,cee'd,cee'd,Manuaal,2010,Luukpära,Esivedu,3999
+https://www.auto24.ee/soidukid/3967980,SEAT,2.0 TDI 103kW,282000,Diisel,Altea XL Comfortline,Altea XL,Automaat,2010,Luukpära,Esivedu,3999
+https://www.auto24.ee/soidukid/3938773,Skoda,1.2 63kW,248296,Bensiin,Roomster N1 Comfortline,Roomster,Manuaal,2015,Mahtuniversaal,Esivedu,3999
+https://www.auto24.ee/soidukid/3886703,Mazda,1.6 77kW,213035,Bensiin,3 Comfortline,3,Manuaal,2011,Sedaan,Esivedu,4299
+https://www.auto24.ee/soidukid/3970470,Volvo,2.4 R5 120kW,278000,Diisel,S80,S80,Automaat,2008,Sedaan,Esivedu,4399
+https://www.auto24.ee/soidukid/3972097,Peugeot,1.6 55kW,184495,Diisel,Partner N1,Partner,Manuaal,2014,Väikekaubik,Esivedu,4400
+https://www.auto24.ee/soidukid/3974538,Skoda,2.0 TDI 103kW,267000,Diisel,Octavia Laurin & Klement,Octavia,Automaat,2009,Universaal,Esivedu,4490
+https://www.auto24.ee/soidukid/3926620,BMW,2.5 130kW,304922,Diisel,525 Comfortline,525,Automaat,2005,Universaal,Tagavedu,4499
+https://www.auto24.ee/soidukid/3832993,Chevrolet,1.2 63kW,107296,Bensiin,Aveo,Aveo,Manuaal,2011,Luukpära,Esivedu,4499
+https://www.auto24.ee/soidukid/3826303,Ford,1.8 92kW,179541,Diisel,Mondeo Ghia,Mondeo,Manuaal,2007,Universaal,Esivedu,4499
+https://www.auto24.ee/soidukid/3833555,Ford,2.3 118kW,281904,Bensiin,S-max Family,S-MAX,Automaat,2008,Mahtuniversaal,Esivedu,4499
+https://www.auto24.ee/soidukid/3809123,Mazda,2.3 114kW,103096,Bensiin,5 Facelift,5,Automaat,2009,Mahtuniversaal,Esivedu,4499
+https://www.auto24.ee/soidukid/3855602,Opel,1.2 63kW,118857,Bensiin,Corsa City,Corsa,Poolautomaat,2011,Luukpära,Esivedu,4499
+https://www.auto24.ee/soidukid/3857659,SEAT,1.2 77kW,159155,Bensiin,Ibiza ST,Ibiza,Manuaal,2011,Universaal,Esivedu,4499
+https://www.auto24.ee/soidukid/3948863,Skoda,1.4 63kW,159060,Bensiin,Fabia,Fabia,Manuaal,2012,Universaal,Esivedu,4499
+https://www.auto24.ee/soidukid/3911741,Subaru,2.0 110kW,214000,Diisel,Impreza,Impreza,Manuaal,2010,Universaal,Nelikvedu,4500
+https://www.auto24.ee/soidukid/3960593,Volkswagen,1.6 75kW,284000,Diisel,Caddy MAXI,Caddy,Manuaal,2013,Mahtuniversaal,Esivedu,4500
+https://www.auto24.ee/soidukid/3384855,CFMOTO,R1 21kW,,Bensiin,300SR,300SR,Manuaal,2023,Bike,Tagavedu,4590
+https://www.auto24.ee/soidukid/3910135,Super SOCO,7kW,,Elekter,CPX PRO,CPX PRO,Automaat,2023,Roller,Tagavedu,4890
+https://www.auto24.ee/soidukid/3920799,Chevrolet,1.4 103kW,214600,Bensiin,Cruze,Cruze,Manuaal,2014,Universaal,Esivedu,4990
+https://www.auto24.ee/soidukid/3897233,Mazda,2.0 110kW,265910,Bensiin,5,5,Manuaal,2011,Mahtuniversaal,Esivedu,4990
+https://www.auto24.ee/soidukid/3968674,Skoda,2.0 TDI 103kW,293000,Diisel,Octavia Elegance,Octavia,Automaat,2010,Universaal,Esivedu,4990
+https://www.auto24.ee/soidukid/3967679,Volkswagen,1.6 TDI 77kW,243000,Diisel,Golf Comfortline,Golf,Manuaal,2010,Universaal,Esivedu,4990
+https://www.auto24.ee/soidukid/3975010,Audi,2.8 140kW,281821,Bensiin,A6 Comfortline,A6,Automaat,2009,Sedaan,Esivedu,4999
+https://www.auto24.ee/soidukid/3895551,Chevrolet,1.4 74kW,137539,Bensiin,Aveo Eco City,Aveo,Manuaal,2012,Sedaan,Esivedu,4999
+https://www.auto24.ee/soidukid/3937871,Chevrolet,2.0 120kW,179588,Diisel,Cruze,Cruze,Manuaal,2012,Luukpära,Esivedu,4999
+https://www.auto24.ee/soidukid/3936714,Chevrolet,1.8 104kW,100429,Bensiin,Cruze LS,Cruze,Manuaal,2011,Sedaan,Esivedu,4999
+https://www.auto24.ee/soidukid/3949330,Citroen,2.0 100kW,225716,Diisel,C4 Picasso Exclusive,C4 Picasso,Automaat,2011,Mahtuniversaal,Esivedu,4999
+https://www.auto24.ee/soidukid/3945730,Ford,2.0 107kW,204010,Bensiin,Galaxy Ghia Family,Galaxy,Manuaal,2007,Mahtuniversaal,Esivedu,4999
+https://www.auto24.ee/soidukid/3832979,Hyundai,1.2 63kW,121447,Bensiin,i20 Active,i20,Manuaal,2013,Luukpära,Esivedu,4999
+https://www.auto24.ee/soidukid/3826300,Opel,2.0 110kW,243138,Diisel,Antara Exclusive,Antara,Automaat,2008,Universaal,Nelikvedu,4999
+https://www.auto24.ee/soidukid/3828072,Saab,1.9 110kW,262300,Diisel,9-5 Edition Executive,9-5,Automaat,2009,Sedaan,Esivedu,4999
+https://www.auto24.ee/soidukid/3835296,SEAT,2.0 105kW,286950,Diisel,Exeo ST,Exeo,Automaat,2011,Universaal,Esivedu,4999
+https://www.auto24.ee/soidukid/3948280,Volkswagen,1.4 63kW,236769,Bensiin,Polo Eco City,Polo,Automaat,2010,Luukpära,Esivedu,4999
+https://www.auto24.ee/soidukid/3951074,CFMOTO,41kW,212,Bensiin,650NK,650NK,Manuaal,2022,Klassikaline mootorratas,Tagavedu,5080
+https://www.auto24.ee/soidukid/3957723,Mazda,2.0 R4 110kW,214000,Bensiin + gaas (LPG/vedelgaas),3,3,Automaat,2009,Sedaan,Esivedu,5100
+https://www.auto24.ee/soidukid/3870714,Skoda,1.6 TDI 66kW,244961,Diisel,Roomster,Roomster,Manuaal,2012,Mahtuniversaal,Esivedu,5200
+https://www.auto24.ee/soidukid/3809145,Chevrolet,1.6 91kW,109048,Bensiin,Cruze City,Cruze,Manuaal,2012,Luukpära,Esivedu,5299
+https://www.auto24.ee/soidukid/3885922,Hyundai,1.2 63kW,93394,Bensiin,i20 Classic MT,i20,Manuaal,2014,Luukpära,Esivedu,5399
+https://www.auto24.ee/soidukid/3957151,Ford,2.2 74kW,188295,Diisel,Transit 100 T300,Transit,Manuaal,2012,Kaubik,Esivedu,5400
+https://www.auto24.ee/soidukid/3946747,JDM,4kW,46736,Diisel,Roxsy DCI,Roxsy,Automaat,2012,Mopeedauto,Esivedu,5490
+https://www.auto24.ee/soidukid/3826299,Audi,2.4 130kW,214044,Bensiin,A6 Avant,A6,Automaat,2007,Universaal,Esivedu,5499
+https://www.auto24.ee/soidukid/3817161,BMW,2.0 110kW,224424,Diisel,X3 Executive Facelift,X3,Manuaal,2007,Sedaan,Nelikvedu,5499
+https://www.auto24.ee/soidukid/3826570,Chevrolet,1.8 104kW,190620,Bensiin,Cruze Comfort,Cruze,Automaat,2009,Sedaan,Esivedu,5499
+https://www.auto24.ee/soidukid/3921279,Chevrolet,1.8 104kW,243350,Bensiin,Orlando Family,Orlando,Manuaal,2011,Universaal,Esivedu,5499
+https://www.auto24.ee/soidukid/3842705,Citroen,1.6 66kW,199567,Bensiin,Berlingo,Berlingo,Manuaal,2011,Mahtuniversaal,Esivedu,5499
+https://www.auto24.ee/soidukid/3845621,Ford,1.6 85kW,226784,Diisel,Mondeo Eco,Mondeo,Manuaal,2012,Universaal,Esivedu,5499
+https://www.auto24.ee/soidukid/3854348,Humbaur,,,,HT 255121,,,2022,Haagis,,5499
+https://www.auto24.ee/soidukid/3824174,Mitsubishi,2.4 125kW,243343,Bensiin,Outlander,Outlander,Automaat,2008,Universaal,Nelikvedu,5499
+https://www.auto24.ee/soidukid/3814128,Opel,2.0 110kW,162000,Diisel,Antara Family,Antara,Manuaal,2007,Universaal,Nelikvedu,5499
+https://www.auto24.ee/soidukid/3975523,Peugeot,1.4 70kW,45875,Bensiin,208,208,Manuaal,2012,Luukpära,Esivedu,5499
+https://www.auto24.ee/soidukid/3942490,Peugeot,1.6 115kW,154369,Bensiin,3008 Family,3008,Automaat,2010,Luukpära,Esivedu,5499
+https://www.auto24.ee/soidukid/3829733,Peugeot,1.6 88kW,111259,Bensiin,308 Allure,308,Automaat,2011,Luukpära,Esivedu,5499
+https://www.auto24.ee/soidukid/3919328,Peugeot,1.6 80kW,151600,Diisel,5008 Family,5008,Manuaal,2011,Mahtuniversaal,Esivedu,5499
+https://www.auto24.ee/soidukid/3929435,Skoda,1.6 77kW,220215,Diisel,Rapid Ambition,Rapid,Manuaal,2013,Luukpära,Esivedu,5499
+https://www.auto24.ee/soidukid/3960340,Subaru,2.0 110kW,277805,Diisel,Outback Outback,Outback,Manuaal,2010,Universaal,Nelikvedu,5499
+https://www.auto24.ee/soidukid/3922983,Toyota,2.2 110kW,264364,Diisel,Avensis Eco Drive,Avensis,Automaat,2009,Universaal,Esivedu,5499
+https://www.auto24.ee/soidukid/3847720,Toyota,2.2 130kW,282730,Diisel,RAV4 Comfort D-Cat,RAV4,Manuaal,2006,Mahtuniversaal,Nelikvedu,5499
+https://www.auto24.ee/soidukid/3898446,Volkswagen,1.2 51kW,138564,Bensiin,Polo Eco City,Polo,Manuaal,2013,Luukpära,Esivedu,5499
+https://www.auto24.ee/soidukid/3834886,Volvo,1.6 80kW,101538,Diisel,S40 Summum,S40,Manuaal,2008,Sedaan,Esivedu,5499
+https://www.auto24.ee/soidukid/3963443,Ford,2.0 107kW,249800,Bensiin,Mondeo Titanium,Mondeo,Manuaal,2012,Universaal,Esivedu,5500
+https://www.auto24.ee/soidukid/3976113,Skoda,1.8 118kW,179425,Bensiin,Octavia,Octavia,Manuaal,2009,Luukpära,Esivedu,5500
+https://www.auto24.ee/soidukid/3975251,Skoda,1.6 TDI 77kW,159689,Diisel,Octavia Ambiente,Octavia,Manuaal,2011,Luukpära,Esivedu,5500
+https://www.auto24.ee/soidukid/3971116,Volkswagen,2.0 103kW,263886,Diisel,Passat,Passat,Manuaal,2010,Sedaan,Esivedu,5500
+https://www.auto24.ee/soidukid/2141000,CFMOTO,21kW,1,Bensiin,CForce 450 L,CForce 450,Automaat,2023,ATV,Nelikvedu,5590
+https://www.auto24.ee/soidukid/3841764,Honda,1.3 73kW,129967,Bensiin,Jazz Comfort,Jazz,Automaat,2011,Luukpära,Esivedu,5799
+https://www.auto24.ee/soidukid/3974244,Toyota,1.6 97kW,179000,Bensiin,Corolla,Corolla,Manuaal,2011,Sedaan,Esivedu,5800
+https://www.auto24.ee/soidukid/3905217,Volkswagen,2.0 103kW,264410,Diisel,Touran,Touran,Automaat,2011,Mahtuniversaal,Esivedu,5800
+https://www.auto24.ee/soidukid/3905477,Renault,1.5 R4 66kW,170000,Diisel,Kangoo Maxi L2,Kangoo,Manuaal,2017,Kaubik,Esivedu,5899
+https://www.auto24.ee/soidukid/3890343,Toyota,2.0 R4 112kW,245000,Bensiin,Avensis Elegance,Avensis,Automaat,2009,Universaal,Esivedu,5899
+https://www.auto24.ee/soidukid/3880672,Volkswagen,1.6 77kW,307478,Diisel,Touran Comfortline,Touran,Manuaal,2014,Mahtuniversaal,Esivedu,5900
+https://www.auto24.ee/soidukid/3784320,Volkswagen,1.9 75kW,313470,Diisel,Transporter,Transporter,Manuaal,2010,Kaubik,Esivedu,5900
+https://www.auto24.ee/soidukid/3878209,CFMOTO,34kW,,Bensiin,450SR,450SR,Manuaal,2023,Bike,Tagavedu,5990
+https://www.auto24.ee/soidukid/3921861,Opel,1.4 103kW,193570,Bensiin,Insignia,Insignia,Manuaal,2013,Sedaan,Esivedu,5990
+https://www.auto24.ee/soidukid/3969640,Skoda,1.2 81kW,149745,Bensiin,Fabia,Fabia,Manuaal,2015,Luukpära,Esivedu,5990
+https://www.auto24.ee/soidukid/3907236,Audi,3.0 171kW,278496,Diisel,A6 allroad Quattro,A6 allroad,Automaat,2006,Universaal,Nelikvedu,5999
+https://www.auto24.ee/soidukid/3652382,BMW,2.5 130kW,221664,Bensiin,523,523,Automaat,2007,Sedaan,Tagavedu,5999
+https://www.auto24.ee/soidukid/3811434,Chevrolet,1.6 85kW,117053,Bensiin,Aveo,Aveo,Automaat,2011,Sedaan,Esivedu,5999
+https://www.auto24.ee/soidukid/3817159,Chevrolet,2.0 120kW,160054,Diisel,Cruze,Cruze,Manuaal,2012,Luukpära,Esivedu,5999
+https://www.auto24.ee/soidukid/3817170,Chevrolet,2.0 120kW,201250,Diisel,Cruze LT,Cruze,Automaat,2011,Sedaan,Esivedu,5999
+https://www.auto24.ee/soidukid/3970538,Citroen,1.6 88kW,171770,Bensiin,C4 Comfortline,C4,Automaat,2012,Luukpära,Esivedu,5999
+https://www.auto24.ee/soidukid/3833523,Ford,1.5 55kW,227965,Diisel,Fiesta Eco City,Fiesta,Manuaal,2015,Luukpära,Esivedu,5999
+https://www.auto24.ee/soidukid/3834832,Ford,2.0 103kW,227836,Diisel,Mondeo Vignale,Mondeo,Automaat,2011,Luukpära,Esivedu,5999
+https://www.auto24.ee/soidukid/3887054,Honda,2.0 115kW,206882,Bensiin,Accord,Accord,Automaat,2009,Sedaan,Esivedu,5999
+https://www.auto24.ee/soidukid/3855617,Hyundai,1.7 100kW,267743,Diisel,i40 City,i40,Manuaal,2012,Universaal,Esivedu,5999
+https://www.auto24.ee/soidukid/3917062,Kia,1.2 63kW,90571,Bensiin,Rio Style,Rio,Manuaal,2012,Luukpära,Esivedu,5999
+https://www.auto24.ee/soidukid/3970550,Nissan,1.6 86kW,99895,Bensiin,Juke Pure Drive,Juke,Manuaal,2011,Luukpära,Esivedu,5999
+https://www.auto24.ee/soidukid/3815321,Skoda,1.6 66kW,233559,Diisel,Rapid Eco City,Rapid,Manuaal,2014,Luukpära,Esivedu,5999
+https://www.auto24.ee/soidukid/3942742,Skoda,1.4 92kW,152171,Bensiin,Superb,Superb,Manuaal,2012,Sedaan,Esivedu,5999
+https://www.auto24.ee/soidukid/3953535,Skoda,2.0 81kW,231692,Diisel,Yeti Ambition,Yeti,Manuaal,2010,Universaal,Esivedu,5999
+https://www.auto24.ee/soidukid/3912597,Volkswagen,2.0 103kW,268750,Diisel,Passat CC Comfortline,Passat CC,Automaat,2008,Sedaan,Esivedu,5999
+https://www.auto24.ee/soidukid/3904158,Volkswagen,1.4 110kW,241510,Bensiin + gaas (CNG/surugaas),Touran Family Eco Fuel,Touran,Manuaal,2013,Mahtuniversaal,Esivedu,5999
+https://www.auto24.ee/soidukid/3960654,Mazda,108kW,96300,Bensiin,6 Elegance,6,Manuaal,2010,Sedaan,Esivedu,6000
+https://www.auto24.ee/soidukid/3950090,CFMOTO,51kW,566,Bensiin,700CL-X Heritage,700CL-X,Manuaal,2022,Klassikaline mootorratas,Tagavedu,6050
+https://www.auto24.ee/soidukid/3969062,Volkswagen,1.2 TSI 77kW,117883,Bensiin,Golf Trendline,Golf,Manuaal,2013,Luukpära,Esivedu,6100
+https://www.auto24.ee/soidukid/2265831,CFMOTO,4 takti 27kW,1,Bensiin,CForce 520 L,CForce 520,Automaat,2023,ATV,Nelikvedu,6190
+https://www.auto24.ee/soidukid/3940667,BMW,25kW,,Bensiin,G 310 GS,G 310 GS,Manuaal,,Klassikaline mootorratas,Tagavedu,6217
+https://www.auto24.ee/soidukid/2820556,CFMOTO,41kW,,Bensiin,650MT,650MT,Manuaal,2023,Klassikaline mootorratas,Tagavedu,6290
+https://www.auto24.ee/soidukid/3384818,CFMOTO,R2 46kW,,Bensiin,650GT,650GT,Manuaal,2023,Touring,Tagavedu,6390
+https://www.auto24.ee/soidukid/2516691,Skoda,1.2 TSI 77kW,111000,Bensiin,Octavia Active,Octavia,Manuaal,2012,Luukpära,Esivedu,6400
+https://www.auto24.ee/soidukid/3901897,Nissan,80kW,124000,Elekter,LEAF,LEAF,Automaat,2012,Luukpära,Esivedu,6490
+https://www.auto24.ee/soidukid/3808850,BMW,3.0 160kW,222155,Bensiin,525 Touring High Executive,525,Automaat,2009,Universaal,Tagavedu,6499
+https://www.auto24.ee/soidukid/3958453,Chevrolet,1.8 104kW,112901,Bensiin,Cruze 4D Eco City,Cruze,Automaat,2013,Luukpära,Esivedu,6499
+https://www.auto24.ee/soidukid/3825076,Chrysler,3.0 160kW,250451,Diisel,300 C Executive,300 C,Automaat,2008,Sedaan,Tagavedu,6499
+https://www.auto24.ee/soidukid/3945435,Citroen,1.6 68kW,218289,Diisel,Berlingo N1 Multispace,Berlingo,Manuaal,2015,Kaubik,Esivedu,6499
+https://www.auto24.ee/soidukid/3942749,Honda,1.3 73kW,137036,Bensiin,Jazz,Jazz,Automaat,2012,Luukpära,Esivedu,6499
+https://www.auto24.ee/soidukid/3808251,Kia,3.3 180kW,109251,Bensiin + gaas (LPG/vedelgaas),Sorento LPG,Sorento,Automaat,2009,Universaal,Tagavedu,6499
+https://www.auto24.ee/soidukid/3953556,Lexus,3.5 218kW,312969,Hübriid (bensiin / elekter),GS 450h Exclusive,GS 450h,Automaat,2007,Sedaan,Tagavedu,6499
+https://www.auto24.ee/soidukid/3956176,Mercedes-Benz,1.8 135kW,234492,Bensiin,C 200 Kompressor Avantgarde,C 200,Automaat,2007,Sedaan,Tagavedu,6499
+https://www.auto24.ee/soidukid/3808254,Nissan,2.0 110kW,212391,Diisel,X-Trail,X-Trail,Automaat,2007,Mahtuniversaal,Nelikvedu,6499
+https://www.auto24.ee/soidukid/3834841,Peugeot,1.2 60kW,90770,Bensiin,308 Pure Tech,308,Manuaal,2014,Luukpära,Esivedu,6499
+https://www.auto24.ee/soidukid/3928728,Skoda,1.8 118kW,227019,Bensiin,Superb Elegance,Superb,Automaat,2011,Sedaan,Esivedu,6499
+https://www.auto24.ee/soidukid/3938516,Toyota,1.4 66kW,126094,Diisel,Yaris Eco City,Yaris,Manuaal,2013,Luukpära,Esivedu,6499
+https://www.auto24.ee/soidukid/3899327,Volkswagen,2.0 125kW,297879,Diisel,Passat CC Sportline 4Motion,Passat CC,Automaat,2010,Sedaan,Nelikvedu,6499
+https://www.auto24.ee/soidukid/3914383,Omavalmistatud,5.0 140kW,650000,Diisel,Isuzu Turquoise Q-BUS 31,Isuzu Turquoise Q-BUS 31,Manuaal,2009,,Tagavedu,6500
+https://www.auto24.ee/soidukid/3950094,CFMOTO,51kW,1666,Bensiin,700CL-X Sport,700CL-X,Manuaal,2022,Klassikaline mootorratas,Tagavedu,6650
+https://www.auto24.ee/soidukid/3810303,Peugeot,1.2 60kW,130368,Bensiin,2008 Active,2008,Manuaal,2013,Luukpära,Esivedu,6799
+https://www.auto24.ee/soidukid/3964059,Skoda,1.2 77kW,130872,Bensiin,Yeti Comfortline,Yeti,Manuaal,2013,Universaal,Esivedu,6799
+https://www.auto24.ee/soidukid/3943265,Skoda,55kW,99400,Bensiin,Fabia,Fabia,Manuaal,2018,Luukpära,Esivedu,6800
+https://www.auto24.ee/soidukid/3950059,CFMOTO,34kW,3333,Bensiin,700CL-X Adventure,700CL-X,Manuaal,2023,Klassikaline mootorratas,Tagavedu,6850
+https://www.auto24.ee/soidukid/3878524,Ford,1.0 92kW,118604,Bensiin,C-max,C-MAX,Manuaal,2014,Mahtuniversaal,Esivedu,6900
+https://www.auto24.ee/soidukid/3932021,Volkswagen,2.0 75kW,297427,Diisel,Transporter,Transporter,Manuaal,2011,Kaubik,Esivedu,6900
+https://www.auto24.ee/soidukid/3904595,Ford,1.4 71kW,86330,Bensiin,Fiesta,Fiesta,Automaat,2012,Luukpära,Esivedu,6990
+https://www.auto24.ee/soidukid/3946067,Ford,2.0 TDCi 103kW,331700,Diisel,Galaxy,Galaxy,Automaat,2011,Mahtuniversaal,Esivedu,6990
+https://www.auto24.ee/soidukid/3961916,Skoda,1.2 63kW,195000,Bensiin,Octavia,Octavia,Manuaal,2016,Sedaan,Esivedu,6990
+https://www.auto24.ee/soidukid/3818627,Skoda,1.4 92kW,199430,Bensiin,Superb,Superb,Manuaal,2013,Sedaan,Esivedu,6990
+https://www.auto24.ee/soidukid/3824627,Volkswagen,1.4 TSI 110kW,183500,Bensiin + gaas (CNG/surugaas),Passat Highline Ecofuel CNG,Passat,Automaat,2011,Sedaan,Esivedu,6990
+https://www.auto24.ee/soidukid/3963281,Audi,2.0 125kW,171244,Bensiin,A6 Facelift,A6,Automaat,2010,Sedaan,Esivedu,6999
+https://www.auto24.ee/soidukid/3970539,Chevrolet,1.4 103kW,233171,Bensiin,Orlando Family,Orlando,Manuaal,2014,Universaal,Esivedu,6999
+https://www.auto24.ee/soidukid/3834866,Chevrolet,1.8 103kW,120201,Bensiin,Sonic Luxury Line,Sonic,Automaat,2014,Sedaan,Esivedu,6999
+https://www.auto24.ee/soidukid/3952473,Ford,1.5 70kW,231557,Diisel,Focus Business,Focus,Manuaal,2017,Universaal,Esivedu,6999
+https://www.auto24.ee/soidukid/3817175,Honda,2.0 115kW,186442,Bensiin,Accord Life Edition,Accord,Manuaal,2011,Sedaan,Esivedu,6999
+https://www.auto24.ee/soidukid/3958468,Honda,1.3 65kW,152087,Hübriid (bensiin / elekter),Jazz Hybrid Eco,Jazz,Automaat,2011,Luukpära,Esivedu,6999
+https://www.auto24.ee/soidukid/3843189,Hyundai,1.6 94kW,225731,Diisel,i30 Family,i30,Manuaal,2013,Universaal,Esivedu,6999
+https://www.auto24.ee/soidukid/3969688,Hyundai,1.6 92kW,139341,Bensiin,ix20,ix20,Automaat,2011,Luukpära,Esivedu,6999
+https://www.auto24.ee/soidukid/3964081,Jeep,2.0 115kW,216471,Bensiin,Compass Elegance,Compass,Manuaal,2012,Mahtuniversaal,Esivedu,6999
+https://www.auto24.ee/soidukid/3914587,Kia,1.2 63kW,45043,Bensiin,Rio Eco City,Rio,Manuaal,2014,Luukpära,Esivedu,6999
+https://www.auto24.ee/soidukid/3881446,MINI,1.6 90kW,161060,Bensiin,Countryman Cooper,Countryman,Manuaal,2011,Universaal,Esivedu,6999
+https://www.auto24.ee/soidukid/3966465,Peugeot,2.0 120kW,139061,Diisel,3008,3008,Automaat,2011,Luukpära,Esivedu,6999
+https://www.auto24.ee/soidukid/3945420,Skoda,1.8 118kW,133370,Bensiin,Superb Comfort Plus,Superb,Automaat,2011,Sedaan,Esivedu,6999
+https://www.auto24.ee/soidukid/3970844,Volkswagen,1.6 77kW,238837,Diisel,Golf Variant Bluemotion,Golf,Manuaal,2015,Universaal,Esivedu,6999
+https://www.auto24.ee/soidukid/3871394,Nifty,,,,,,,2007,Tõstuk,,7000
+https://www.auto24.ee/soidukid/3976050,Audi,2.7 TDI 140kW,309000,Diisel,A4,A4,Automaat,2009,Sedaan,Esivedu,7200
+https://www.auto24.ee/soidukid/3964812,Mercedes-Benz,2.0 44kW,222222,Diisel,200,200,Manuaal,1982,Sedaan,Tagavedu,7200
+https://www.auto24.ee/soidukid/3950176,CFMOTO,70kW,2555,Bensiin,800NK,800NK,Manuaal,2023,Klassikaline mootorratas,Tagavedu,7290
+https://www.auto24.ee/soidukid/3974725,Honda,1.6 DTEC 88kW,193000,Diisel,Civic Lifestyle,Civic,Manuaal,2013,Luukpära,Esivedu,7299
+https://www.auto24.ee/soidukid/3951820,Honda,1.8 R4 104kW,144000,Bensiin,Civic Lifestyle,Civic,Automaat,2012,Luukpära,Esivedu,7399
+https://www.auto24.ee/soidukid/3952365,Opel,1.4 103kW,129000,Bensiin,Mokka,Mokka,Manuaal,2014,Luukpära,Esivedu,7400
+https://www.auto24.ee/soidukid/3944271,Volkswagen,1.2 TSI 77kW,161000,Bensiin,Golf,Golf,Manuaal,2014,Luukpära,Esivedu,7400
+https://www.auto24.ee/soidukid/3765318,Volkswagen,1.4 90kW,149000,Bensiin,Golf,Golf,Manuaal,2014,Luukpära,Esivedu,7490
+https://www.auto24.ee/soidukid/3846811,Volvo,2.4 D5 136kW,361000,Diisel,S80 Executive,S80,Automaat,2007,Sedaan,Esivedu,7490
+https://www.auto24.ee/soidukid/3946528,Chrysler,3.0 160kW,221749,Diisel,300 C,300 C,Automaat,2011,Sedaan,Tagavedu,7499
+https://www.auto24.ee/soidukid/3976089,Citroen,1.6 73kW,149919,Diisel,C4 Cactus Eco City,C4 Cactus,Manuaal,2017,Luukpära,Esivedu,7499
+https://www.auto24.ee/soidukid/3942488,Citroen,2.0 110kW,179992,Diisel,C4 Picasso,C4 Picasso,Manuaal,2015,Universaal,Esivedu,7499
+https://www.auto24.ee/soidukid/3946547,Ford,2.0 103kW,190178,Diisel,Mondeo Trend,Mondeo,Automaat,2013,Universaal,Esivedu,7499
+https://www.auto24.ee/soidukid/3968514,Honda,2.0 110kW,141775,Bensiin,CR-V Comfort Line,CR-V,Manuaal,2010,Mahtuniversaal,Nelikvedu,7499
+https://www.auto24.ee/soidukid/3925898,Jaguar,2.7 152kW,184664,Diisel,XF Premium Lux,XF,Automaat,2009,Sedaan,Tagavedu,7499
+https://www.auto24.ee/soidukid/3814102,Peugeot,1.6 115kW,177249,Bensiin,3008 Premium,3008,Manuaal,2015,Luukpära,Esivedu,7499
+https://www.auto24.ee/soidukid/3835494,Kia,1.7 100kW,204719,Diisel,Optima CRDi,Optima,Manuaal,2012,Sedaan,Esivedu,7599
+https://www.auto24.ee/soidukid/3951351,Kia,1.6 94kW,125000,Diisel,Ceed,Ceed,Automaat,2013,Luukpära,Esivedu,7700
+https://www.auto24.ee/soidukid/3883697,Suzuki,R4 107kW,31000,Bensiin,GSX-S 1000,GSX-S 1000,Manuaal,2016,Klassikaline mootorratas,Tagavedu,7700
+https://www.auto24.ee/soidukid/3803827,Subaru,1.6 84kW,114829,Bensiin,Impreza 4X4,Impreza,Manuaal,2014,Universaal,Nelikvedu,7800
+https://www.auto24.ee/soidukid/1903582,CFMOTO,0.6 R1 33kW,1,Bensiin,CForce 625 Touring,CForce 625,Automaat,2023,ATV,Nelikvedu,7890
+https://www.auto24.ee/soidukid/3967132,Mercedes-Benz,5.5 285kW,325500,Bensiin,S 500,S 500,Automaat,2008,Sedaan,Nelikvedu,7900
+https://www.auto24.ee/soidukid/3951075,Kia,1.2 MPi 62kW,69015,Bensiin,Rio LX,Rio,Manuaal,2018,Luukpära,Esivedu,7990
+https://www.auto24.ee/soidukid/2309139,Lexus,2.5 V6 153kW,158000,Bensiin,IS 250,IS 250,Automaat,2010,Sedaan,Tagavedu,7990
+https://www.auto24.ee/soidukid/3953469,Nissan,2.5 140kW,199990,Diisel,Murano,Murano,Automaat,2011,Universaal,Nelikvedu,7990
+https://www.auto24.ee/soidukid/3933447,Volkswagen,1.4 55kW,199638,Diisel,Polo,Polo,Manuaal,2019,Luukpära,Esivedu,7990
+https://www.auto24.ee/soidukid/3829728,Audi,2.7 140kW,256280,Diisel,A6 Business Edition,A6,Automaat,2011,Universaal,Esivedu,7999
+https://www.auto24.ee/soidukid/3973066,Hyundai,2.2 145kW,205951,Diisel,Santa Fe Comfort,Santa Fe,Manuaal,2011,Mahtuniversaal,Esivedu,7999
+https://www.auto24.ee/soidukid/3976083,Kia,2.2 145kW,264864,Diisel,Sorento AWD,Sorento,Automaat,2010,Universaal,Nelikvedu,7999
+https://www.auto24.ee/soidukid/3971900,Mitsubishi,1.6 R4 86kW,147500,Bensiin,ASX,ASX,Manuaal,2011,Universaal,Esivedu,7999
+https://www.auto24.ee/soidukid/3903086,Opel,1.6 88kW,177853,Diisel,Zafira Tourer,Zafira,Manuaal,2016,Mahtuniversaal,Esivedu,7999
+https://www.auto24.ee/soidukid/3883331,Peugeot,1.6 88kW,142881,Bensiin,3008 Family,3008,Manuaal,2015,Universaal,Esivedu,7999
+https://www.auto24.ee/soidukid/3914286,Peugeot,2.0 120kW,161351,Diisel,508,508,Automaat,2014,Sedaan,Esivedu,7999
+https://www.auto24.ee/soidukid/3936702,Renault,2.0 127kW,139784,Diisel,Latitude Expression,Latitude,Automaat,2014,Sedaan,Esivedu,7999
+https://www.auto24.ee/soidukid/3962443,Skoda,1.2 77kW,131602,Bensiin,Octavia Active,Octavia,Automaat,2014,Universaal,Esivedu,7999
+https://www.auto24.ee/soidukid/3951082,CFMOTO,67kW,665,Bensiin,800MT Sport,800MT,Manuaal,2023,Touring,Tagavedu,8150
+https://www.auto24.ee/soidukid/3973442,Hyundai,2.0 R4 120kW,139000,Bensiin,ix35,ix35,Automaat,2012,Universaal,Nelikvedu,8200
+https://www.auto24.ee/soidukid/3892507,CFMOTO,33kW,1,Bensiin,CForce 625 Touring Overland,CForce 625,Automaat,2023,ATV,Nelikvedu,8390
+https://www.auto24.ee/soidukid/3774358,Peugeot,2.0 HDi 120kW,149000,Diisel,508,508,Automaat,2014,Sedaan,Esivedu,8490
+https://www.auto24.ee/soidukid/3817187,Audi,1.8 118kW,269673,Bensiin,A5 Sportback,A5,Automaat,2010,Luukpära,Esivedu,8499
+https://www.auto24.ee/soidukid/3849370,Hyundai,2.0 135kW,215938,Diisel,ix35 Premium,ix35,Automaat,2011,Mahtuniversaal,Nelikvedu,8499
+https://www.auto24.ee/soidukid/3808257,Mercedes-Benz,3.0 140kW,271365,Diisel,R 300 4Matic Avantgarde,R 300,Automaat,2010,Universaal,Nelikvedu,8499
+https://www.auto24.ee/soidukid/3976010,Nissan,1.6 R4 86kW,72800,Bensiin,Qashqai Acenta,Qashqai,Manuaal,2012,Luukpära,Esivedu,8499
+https://www.auto24.ee/soidukid/3870825,Opel,1.4 66kW,28642,Bensiin,Corsa Eco,Corsa,Manuaal,2016,Luukpära,Esivedu,8499
+https://www.auto24.ee/soidukid/3843143,Peugeot,1.2 60kW,131414,Bensiin,2008 E-VTi,2008,Automaat,2014,Luukpära,Esivedu,8499
+https://www.auto24.ee/soidukid/3878883,Peugeot,1.6 115kW,158540,Bensiin,5008 Family,5008,Automaat,2014,Mahtuniversaal,Esivedu,8499
+https://www.auto24.ee/soidukid/3951103,Dacia,0.9 66kW,57000,Bensiin,Logan,Logan,Automaat,2017,Universaal,Esivedu,8500
+https://www.auto24.ee/soidukid/3951917,Ford,2.2 147kW,246489,Diisel,Galaxy,Galaxy,Automaat,2012,Mahtuniversaal,Esivedu,8500
+https://www.auto24.ee/soidukid/3936578,MINI,1.6 72kW,183200,Bensiin,Countryman One,Countryman,Manuaal,2013,Luukpära,Esivedu,8500
+https://www.auto24.ee/soidukid/3940350,Kia,1.6 R4 99kW,135500,Bensiin,Ceed,Ceed,Manuaal,2018,Universaal,Esivedu,8899
+https://www.auto24.ee/soidukid/3940567,Opel,1.6 85kW,72185,Bensiin,Mokka,Mokka,Manuaal,2014,Luukpära,Esivedu,8900
+https://www.auto24.ee/soidukid/3963124,Skoda,1.8 132kW,148000,Bensiin,Octavia,Octavia,Automaat,2013,Sedaan,Esivedu,8900
+https://www.auto24.ee/soidukid/3883510,Volkswagen,2.0 TDI 84kW,252160,Diisel,Transporter,Transporter,Manuaal,2012,Väikekaubik,Esivedu,8900
+https://www.auto24.ee/soidukid/3904536,Kia,1.4 MPi 74kW,79950,Bensiin,Ceed LX,Ceed,Manuaal,2016,Luukpära,Esivedu,8990
+https://www.auto24.ee/soidukid/3914473,Kia,1.2 62kW,24000,Bensiin,Picanto,Picanto,Manuaal,2019,Luukpära,Esivedu,8990
+https://www.auto24.ee/soidukid/3913650,Opel,2.0 125kW,224890,Diisel,Insignia Sports Tourer SW,Insignia,Manuaal,2015,Universaal,Esivedu,8990
+https://www.auto24.ee/soidukid/3967154,Opel,1.6 85kW,133753,Bensiin,Mokka,Mokka,Manuaal,2015,Luukpära,Esivedu,8990
+https://www.auto24.ee/soidukid/3829532,Kia,2.0 120kW,190602,Bensiin,Sportage,Sportage,Manuaal,2011,Universaal,Esivedu,8999
+https://www.auto24.ee/soidukid/3946533,Kia,1.7 85kW,133721,Diisel,Sportage CRDi,Sportage,Manuaal,2010,Universaal,Esivedu,8999
+https://www.auto24.ee/soidukid/3935127,Lexus,3.0 V6 183kW,126500,Bensiin,GS 300 President,GS 300,Automaat,2008,Sedaan,Tagavedu,8999
+https://www.auto24.ee/soidukid/3922504,Mazda,2.3 191kW,90820,Bensiin,CX-7 Individual,CX-7,Manuaal,2012,Universaal,Nelikvedu,8999
+https://www.auto24.ee/soidukid/3925203,Mercedes-Benz,1.8 R4 120kW,185500,Bensiin,SLK 200 Kompressor,SLK 200,Automaat,2004,Kabriolett,Tagavedu,8999
+https://www.auto24.ee/soidukid/3965280,BMW,R2 77kW,2515,Bensiin,F 900 R,F 900 R,Manuaal,2023,Klassikaline mootorratas,Tagavedu,9300
+https://www.auto24.ee/soidukid/2760288,CFMOTO,V2 44kW,,Bensiin,CForce 850XC,CForce 850XC,Automaat,2023,ATV,Nelikvedu,9390
+https://www.auto24.ee/soidukid/3949709,Audi,2.0 R4 110kW,254000,Diisel,A4 Avant Comfortline,A4,Automaat,2015,Universaal,Esivedu,9499
+https://www.auto24.ee/soidukid/3834834,Audi,2.0 132kW,249280,Bensiin + gaas (LPG/vedelgaas),A5 Sportback,A5,Automaat,2010,Luukpära,Esivedu,9499
+https://www.auto24.ee/soidukid/3888454,BMW,2.0 130kW,254644,Diisel,X1 X-Drive Comfortline,X1,Automaat,2010,Universaal,Nelikvedu,9499
+https://www.auto24.ee/soidukid/3811437,Citroen,1.6 86kW,87063,Bensiin,C4 Aircross,C4 Aircross,Manuaal,2014,Luukpära,Esivedu,9499
+https://www.auto24.ee/soidukid/3826778,Kia,1.7 85kW,130915,Diisel,Carens Dynamic Plus Line,Carens,Manuaal,2016,Mahtuniversaal,Esivedu,9499
+https://www.auto24.ee/soidukid/3887279,Kia,1.6 99kW,206208,Bensiin,Ceed,Ceed,Automaat,2017,Universaal,Esivedu,9499
+https://www.auto24.ee/soidukid/3957040,Opel,1.4 R4 110kW,163500,Bensiin,Astra Sports Tourer+,Astra,Automaat,2017,Universaal,Esivedu,9499
+https://www.auto24.ee/soidukid/3918454,Opel,1.6 R4 125kW,126500,Bensiin,Insignia Turbo,Insignia,Automaat,2014,Sedaan,Esivedu,9499
+https://www.auto24.ee/soidukid/3870178,Peugeot,1.2 60kW,93153,Bensiin,2008 Active Plus,2008,Manuaal,2018,Universaal,Esivedu,9499
+https://www.auto24.ee/soidukid/3876995,Peugeot,1.2 60kW,49845,Bensiin,2008 Puretech,2008,Manuaal,2016,Universaal,Esivedu,9499
+https://www.auto24.ee/soidukid/3972137,Citroen,1.6 BlueHDi 73kW,114033,Diisel,Berlingo Style,Berlingo,Manuaal,2017,Universaal,Esivedu,9500
+https://www.auto24.ee/soidukid/3954714,Citroen,1.6 73kW,115995,Diisel,Berlingo Style BlueHDi 100,Berlingo,Manuaal,2017,Universaal,Esivedu,9500
+https://www.auto24.ee/soidukid/3975965,Citroen,1.6 73kW,135363,Diisel,Berlingo Style BlueHDi 100,Berlingo,Manuaal,2017,Universaal,Esivedu,9500
+https://www.auto24.ee/soidukid/3975970,Citroen,1.6 73kW,107204,Diisel,Berlingo Style BlueHDi 100,Berlingo,Manuaal,2017,Universaal,Esivedu,9500
+https://www.auto24.ee/soidukid/3950181,Honda,2.0 110kW,164239,Bensiin,CR-V Lifestyle 4WD,CR-V,Automaat,2012,Mahtuniversaal,Nelikvedu,9500
+https://www.auto24.ee/soidukid/3893711,Nissan,0.9 66kW,62200,Bensiin,Micra,Micra,Manuaal,2018,Luukpära,Esivedu,9500
+https://www.auto24.ee/soidukid/3933418,Peugeot,1.2 81kW,107097,Bensiin,2008 Active Plus Puretech AT6,2008,Automaat,2016,Universaal,Esivedu,9500
+https://www.auto24.ee/soidukid/3914885,,Mercury F50 ELPT EFI,,Bensiin,Örnvik 470,Örnvik 470,,2007,Kaater/mootorpaat,,9500
+https://www.auto24.ee/soidukid/3899352,BMW,77kW,,Bensiin,F 900 R,F 900 R,Manuaal,2023,Klassikaline mootorratas,Tagavedu,9530
+https://www.auto24.ee/soidukid/3970771,Volkswagen,1.4 118kW,144719,Bensiin,Tiguan,Tiguan,Manuaal,2014,Universaal,Esivedu,9599
+https://www.auto24.ee/soidukid/3974309,Mercedes-Benz,3.0 195kW,303000,Diisel,E 350,E 350,Automaat,2012,Universaal,Nelikvedu,9640
+https://www.auto24.ee/soidukid/3675519,Peugeot,1.6 R4 76kW,237900,Bensiin,205 GTI,205,Manuaal,1986,Luukpära,Esivedu,9680
+https://www.auto24.ee/soidukid/3950149,CFMOTO,67kW,4365,Bensiin,800MT Touring,800MT,Manuaal,2022,Touring,Tagavedu,9790
+https://www.auto24.ee/soidukid/3941535,Kia,2.0 R4 122kW,150500,Bensiin,Carens Elegance,Carens,Manuaal,2014,Mahtuniversaal,Esivedu,9899
+https://www.auto24.ee/soidukid/3970661,BMW,2.0 160kW,284000,Diisel,525 d xDrive Touring,525,Automaat,2014,Universaal,Nelikvedu,9900
+https://www.auto24.ee/soidukid/3901055,Citroen,1.6 55kW,136556,Diisel,Berlingo Business N1,Berlingo,Manuaal,2018,Mahtuniversaal,Esivedu,9900
+https://www.auto24.ee/soidukid/3952316,Citroen,1.6 88kW,138933,Diisel,Berlingo Business N1 2+3,Berlingo,Manuaal,2018,Mahtuniversaal,Esivedu,9900
+https://www.auto24.ee/soidukid/3973018,Citroen,1.2 61kW,79921,Bensiin,C3 Feel PureTech 82,C3,Manuaal,2019,Luukpära,Esivedu,9900
+https://www.auto24.ee/soidukid/3901864,Ford,1.1 63kW,109280,Bensiin,Fiesta,Fiesta,Manuaal,2019,Luukpära,Esivedu,9900
+https://www.auto24.ee/soidukid/3912380,Ford,2.0 103kW,218027,Diisel,Kuga,Kuga,Manuaal,2015,Mahtuniversaal,Esivedu,9900
+https://www.auto24.ee/soidukid/3919086,Ford,1.5 118kW,111955,Bensiin,Mondeo,Mondeo,Automaat,2016,Universaal,Esivedu,9900
+https://www.auto24.ee/soidukid/3952959,Ford,1.0 74kW,36902,Bensiin,Transit Courier,Transit Courier,Manuaal,2019,Kaubik,Esivedu,9900
+https://www.auto24.ee/soidukid/3685793,Kia,1.6 99kW,183647,Bensiin,Carens EX,Carens,Manuaal,2015,Mahtuniversaal,Esivedu,9900
+https://www.auto24.ee/soidukid/3974112,Skoda,1.0 85kW,168532,Bensiin,Octavia,Octavia,Automaat,2017,Universaal,Esivedu,9900
+https://www.auto24.ee/soidukid/3973665,Skoda,1.0 81kW,88874,Bensiin,Rapid,Rapid,Manuaal,2018,Luukpära,Esivedu,9900
+https://www.auto24.ee/soidukid/3917403,Citroen,1.2 81kW,110000,Bensiin,C4,C4,Manuaal,2017,Luukpära,Esivedu,9990
+https://www.auto24.ee/soidukid/3908100,Honda,1.8 104kW,99000,Bensiin,Civic,Civic,Automaat,2013,Luukpära,Esivedu,9990
+https://www.auto24.ee/soidukid/3975885,Kia,1.6 99kW,83100,Bensiin,cee'd EX,cee'd,Manuaal,2018,Luukpära,Esivedu,9990
+https://www.auto24.ee/soidukid/3941333,Kia,1.6 CRDi 100kW,158860,Diisel,cee'd LX Plus N1,cee'd,Automaat,2016,Luukpära,Esivedu,9990
+https://www.auto24.ee/soidukid/3975507,Kia,1.6 100kW,150390,Diisel,Ceed,Ceed,Automaat,2015,Universaal,Esivedu,9990
+https://www.auto24.ee/soidukid/3909841,Mercedes-Benz,3.0 195kW,328500,Diisel,E 350 CDI 4Matic,E 350,Automaat,2011,Universaal,Nelikvedu,9990
+https://www.auto24.ee/soidukid/3957119,Opel,1.4 Turbo 88kW,148830,Bensiin,Mokka X,Mokka X,Manuaal,2018,Universaal,Esivedu,9990
+https://www.auto24.ee/soidukid/3960897,BMW,2.0 R4 130kW,171000,Diisel,320 d xDrive Comfort Line,320,Automaat,2009,Sedaan,Nelikvedu,9999
+https://www.auto24.ee/soidukid/3929425,BMW,2.0 135kW,231840,Diisel,520 Corporate Executive,520,Automaat,2012,Universaal,Tagavedu,9999
+https://www.auto24.ee/soidukid/3970307,Citroen,1.5 R4 75kW,93000,Diisel,C4 Cactus Feel BlueHDi,C4 Cactus,Manuaal,2020,Luukpära,Esivedu,9999
+https://www.auto24.ee/soidukid/3971825,Citroen,1.2 R4 60kW,115000,Bensiin,C4 Cactus PureTech,C4 Cactus,Automaat,2016,Luukpära,Esivedu,9999
+https://www.auto24.ee/soidukid/3952467,Kia,2.0 120kW,159205,Bensiin,Sportage 4x4,Sportage,Automaat,2012,Universaal,Nelikvedu,9999
+https://www.auto24.ee/soidukid/3829538,Kia,2.0 120kW,165815,Bensiin,Sportage AWD,Sportage,Automaat,2012,Universaal,Nelikvedu,9999
+https://www.auto24.ee/soidukid/3968906,Mercedes-Benz,2.1 R4 125kW,180000,Diisel,C 220 CDI BlueEFFICIENCY,C 220,Automaat,2011,Universaal,Tagavedu,9999
+https://www.auto24.ee/soidukid/3807412,Peugeot,2.0 120kW,223390,Hübriid (diisel / elekter),508 RXH Hybrid 4,508,Automaat,2012,Luukpära,Nelikvedu,9999
+https://www.auto24.ee/soidukid/3912591,Renault,1.2 97kW,154620,Bensiin,Megane Initiale,Megane,Automaat,2017,Universaal,Esivedu,9999
+https://www.auto24.ee/soidukid/3915285,Toyota,1.6 97kW,99876,Bensiin,Corolla Active,Corolla,Manuaal,2016,Sedaan,Esivedu,9999
+https://www.auto24.ee/soidukid/3955736,BMW,2.0 135kW,223000,Diisel,520,520,Automaat,2012,Sedaan,Tagavedu,10000
+https://www.auto24.ee/soidukid/3925092,Skoda,1.4 81kW,148950,Bensiin + gaas (CNG/surugaas),Octavia Active,Octavia,Manuaal,2017,Sedaan,Esivedu,10000
+https://www.auto24.ee/soidukid/3947572,Ford,1.5 R4 118kW,193500,Bensiin,Mondeo Titanium,Mondeo,Automaat,2015,Universaal,Esivedu,10299
+https://www.auto24.ee/soidukid/3907779,Mazda,2.0 R4 118kW,204000,Bensiin,CX-5 SkyActiv 4WD,CX-5,Automaat,2013,Universaal,Nelikvedu,10299
+https://www.auto24.ee/soidukid/3065767,CFMOTO,V2 55kW,,Bensiin,CForce 1000,CForce 1000,Automaat,2023,ATV,Nelikvedu,10490
+https://www.auto24.ee/soidukid/3975467,Volvo,1.6 84kW,239600,Diisel,V40 Ocean Race,V40,Automaat,2014,Luukpära,Esivedu,10490
+https://www.auto24.ee/soidukid/3835338,BMW,2.0 150kW,201451,Diisel,X1 25d xDrive Executive,X1,Automaat,2011,Universaal,Nelikvedu,10499
+https://www.auto24.ee/soidukid/3891041,Volkswagen,1.6 85kW,193684,Diisel,Golf Eco City,Golf,Manuaal,2018,Universaal,Esivedu,10499
+https://www.auto24.ee/soidukid/3675926,Ford,1.0 EcoBoost 74kW,169433,Bensiin,Focus,Focus,Manuaal,2018,Universaal,Esivedu,10500
+https://www.auto24.ee/soidukid/3914353,Ford,1.5 74kW,184900,Diisel,Transit Connect,Transit Connect,Manuaal,2018,Kaubik,Esivedu,10500
+https://www.auto24.ee/soidukid/3962719,Opel,1.6 81kW,147000,Diisel,Astra Sports Tourer+,Astra,Manuaal,2019,Universaal,Esivedu,10500
+https://www.auto24.ee/soidukid/3887099,Toyota,1.6 97kW,92000,Bensiin,Auris,Auris,Manuaal,2017,Sedaan,Esivedu,10500
+https://www.auto24.ee/soidukid/3975727,Toyota,1.6 97kW,108833,Bensiin,Corolla Active Plus,Corolla,Automaat,2015,Sedaan,Esivedu,10500
+https://www.auto24.ee/soidukid/3951170,Volkswagen,2.0 55kW,191885,Diisel,Caddy N1,Caddy,Manuaal,2018,Kaubik,Esivedu,10500
+https://www.auto24.ee/soidukid/3946417,Mercedes-Benz,1.8 CGI 135kW,185306,Bensiin,C 200 Special Edition / Blue Efficiency,C 200,Automaat,2010,Sedaan,Tagavedu,10600
+https://www.auto24.ee/soidukid/3899890,Citroen,1.5 56kW,175721,Diisel,Berlingo,Berlingo,Manuaal,2020,Kaubik,Esivedu,10900
+https://www.auto24.ee/soidukid/3946403,Kia,2.0 120kW,156000,Bensiin,Sportage TX,Sportage,Automaat,2013,Universaal,Nelikvedu,10900
+https://www.auto24.ee/soidukid/3955442,Mercedes-Benz,1.6 115kW,156057,Bensiin,C 180 Coupe,C 180,Automaat,2013,Kupee,Tagavedu,10900
+https://www.auto24.ee/soidukid/3949563,Nissan,80kW,48700,Elekter,LEAF Acenta,LEAF,Automaat,2017,Luukpära,Esivedu,10900
+https://www.auto24.ee/soidukid/3953460,Renault,1.2 87kW,114200,Bensiin,Captur,Captur,Automaat,2017,Luukpära,Esivedu,10900
+https://www.auto24.ee/soidukid/3974312,Skoda,1.0 70kW,41427,Bensiin,Fabia Ambition,Fabia,Manuaal,2020,Luukpära,Esivedu,10900
+https://www.auto24.ee/soidukid/3966697,Skoda,1.0 85kW,112000,Bensiin,Octavia,Octavia,Automaat,2017,Universaal,Esivedu,10900
+https://www.auto24.ee/soidukid/3965547,Skoda,1.8 132kW,140000,Bensiin,Octavia,Octavia,Automaat,2016,Sedaan,Esivedu,10900
+https://www.auto24.ee/soidukid/3975807,Skoda,1.4 TSI 110kW,240450,Bensiin,Octavia Elegance,Octavia,Automaat,2017,Universaal,Esivedu,10900
+https://www.auto24.ee/soidukid/3960437,Suzuki,1.6 88kW,156198,Bensiin,Vitara 4WD GL+ 5MT,Vitara,Manuaal,2017,Universaal,Nelikvedu,10900
+https://www.auto24.ee/soidukid/3938761,Toyota,1.6 97kW,151610,Bensiin,Auris,Auris,Automaat,2016,Universaal,Esivedu,10900
+https://www.auto24.ee/soidukid/3921786,Kia,1.6 GDi 99kW,108880,Bensiin,Ceed EX,Ceed,Manuaal,2017,Luukpära,Esivedu,10990
+https://www.auto24.ee/soidukid/3917079,Kia,2.0 121kW,79500,Bensiin,Optima,Optima,Manuaal,2015,Sedaan,Esivedu,10990
+https://www.auto24.ee/soidukid/3959893,Kia,1.7 R4 CRDi 85kW,111000,Diisel,Sportage,Sportage,Manuaal,2014,Universaal,Esivedu,10990
+https://www.auto24.ee/soidukid/3966338,Kia,2.0 GDi 122kW,112150,Bensiin,Sportage EX,Sportage,Manuaal,2015,Universaal,Nelikvedu,10990
+https://www.auto24.ee/soidukid/3952667,Skoda,1.0 66kW,100774,Bensiin + gaas (CNG/surugaas),Scala,Scala,Manuaal,2020,Luukpära,Esivedu,10995
+https://www.auto24.ee/soidukid/3885941,Honda,1.5 96kW,200832,Bensiin,HR-V,HR-V,Manuaal,2016,Mahtuniversaal,Esivedu,10999
+https://www.auto24.ee/soidukid/3910834,Mercedes-Benz,2.1 100kW,220455,Diisel,GLK 200 CDI,GLK 200,Automaat,2012,Universaal,Tagavedu,10999
+https://www.auto24.ee/soidukid/3960332,Skoda,1.6 85kW,160000,Diisel,Octavia Ambition 11/2018,Octavia,Automaat,2018,Universaal,Esivedu,10999
+https://www.auto24.ee/soidukid/3973656,Toyota,1.6 97kW,98825,Bensiin,Corolla Active Plus,Corolla,Automaat,2014,Sedaan,Esivedu,10999
+https://www.auto24.ee/soidukid/3954907,Mercedes-Benz,1.5 81kW,126000,Diisel,Citan Tourer,Citan,Manuaal,2017,Universaal,Esivedu,11000
+https://www.auto24.ee/soidukid/3912491,BMW,R2 57kW,,Bensiin,F 750 GS,F 750 GS,,,Klassikaline mootorratas,Tagavedu,11272
+https://www.auto24.ee/soidukid/3962780,Opel,1.4 T 92kW,61134,Bensiin,Astra Turbo,Astra,Manuaal,2017,Luukpära,Esivedu,11290
+https://www.auto24.ee/soidukid/3899007,Citroen,1.6 R4 121kW,108000,Bensiin,Grand C4 Picasso,Grand C4 Picasso,Automaat,2015,Mahtuniversaal,Esivedu,11299
+https://www.auto24.ee/soidukid/3878606,Mercedes-Benz,1.8 115kW,106944,Bensiin + gaas (CNG/surugaas),Sprinter 316 NGT,Sprinter,Automaat,2009,Veok,Tagavedu,11490
+https://www.auto24.ee/soidukid/3921858,Opel,1.5 Turbo 121kW,270380,Bensiin,Insignia Sports Tourer Innovation,Insignia,Automaat,2017,Universaal,Esivedu,11490
+https://www.auto24.ee/soidukid/3922617,Kia,1.4 MPI 73kW,111626,Bensiin,Ceed LX Sportswagon,Ceed,Manuaal,2019,Universaal,Esivedu,11499
+https://www.auto24.ee/soidukid/3898474,Skoda,1.0 81kW,85770,Bensiin,Fabia Ambition,Fabia,Automaat,2019,Universaal,Esivedu,11499
+https://www.auto24.ee/soidukid/3936625,MINI,2.0 105kW,207000,Diisel,Countryman Cooper SD ALL4,Countryman,Automaat,2014,Luukpära,Nelikvedu,11500
+https://www.auto24.ee/soidukid/3689244,Audi,1.8 TFSI 118kW,166000,Bensiin,TT S line,TT,Manuaal,2010,Kupee,Esivedu,11900
+https://www.auto24.ee/soidukid/3925733,Citroen,1.2 81kW,69407,Bensiin,C3 Aircross Shine PureTech 110AT,C3 Aircross,Automaat,2019,Luukpära,Esivedu,11900
+https://www.auto24.ee/soidukid/3959567,Fiat,2.0 125kW,150937,Diisel,Freemont Black Code 6AT 4WD,Freemont,Automaat,2015,Mahtuniversaal,Nelikvedu,11900
+https://www.auto24.ee/soidukid/3899980,Ford,1.0 92kW,37900,Bensiin,Grand C-Max,Grand C-Max,Manuaal,2017,Universaal,Esivedu,11900
+https://www.auto24.ee/soidukid/3954778,Kia,1.4 103kW,33000,Bensiin,Ceed LX Plus,Ceed,Manuaal,2019,Luukpära,Esivedu,11900
+https://www.auto24.ee/soidukid/3871332,Volkswagen,1.6 TDI 75kW,229957,Diisel,Caddy Maxi,Caddy,Manuaal,2017,Väikekaubik,Esivedu,11900
+https://www.auto24.ee/soidukid/3944889,Volkswagen,2.0 TDI 110kW,283428,Diisel,Passat Variant Comfortline,Passat,Automaat,2017,Universaal,Esivedu,11900
+https://www.auto24.ee/soidukid/3859640,BMW,81kW,265,Bensiin,R nineT 1200,R nineT,Manuaal,2020,Klassikaline mootorratas,Tagavedu,11990
+https://www.auto24.ee/soidukid/3896741,Nissan,1.2 85kW,103360,Bensiin,Qashqai Acenta,Qashqai,Manuaal,2017,Universaal,Esivedu,11990
+https://www.auto24.ee/soidukid/3964594,Honda,1.5 96kW,103806,Bensiin,HR-V,HR-V,Manuaal,2016,Luukpära,Esivedu,11995
+https://www.auto24.ee/soidukid/3944730,Citroen,1.6 R4 88kW,110500,Diisel,Grand C4 Picasso,Grand C4 Picasso,Manuaal,2018,Mahtuniversaal,Esivedu,11999
+https://www.auto24.ee/soidukid/3947630,Nissan,1.2 R4 85kW,131500,Bensiin,Qashqai Tekna,Qashqai,Automaat,2015,Universaal,Esivedu,11999
+https://www.auto24.ee/soidukid/3843109,Renault,1.6 84kW,72612,Bensiin,Megane Grand Coupe,Megane,Manuaal,2018,Sedaan,Esivedu,11999
+https://www.auto24.ee/soidukid/3974377,Skoda,1.0 66kW,83500,Bensiin + gaas (CNG/surugaas),Kamiq Ambition Plus,Kamiq,Manuaal,2020,Luukpära,Esivedu,11999
+https://www.auto24.ee/soidukid/3971836,Volkswagen,2.0 R4 125kW,107000,Bensiin,Tiguan Comfortline 4Motion,Tiguan,Automaat,2011,Universaal,Nelikvedu,11999
+https://www.auto24.ee/soidukid/3750925,Ford,2.0 184kW,100700,Bensiin,Focus ST,Focus,Manuaal,2014,Luukpära,Esivedu,12000
+https://www.auto24.ee/soidukid/3682145,Audi,2.2 100kW,187114,Bensiin,4000 S Quattro,4000,Manuaal,1985,Sedaan,Nelikvedu,12088
+https://www.auto24.ee/soidukid/3965270,BMW,31kW,1100,Elekter,CE 04,CE 04,Automaat,2023,Roller,Tagavedu,12300
+https://www.auto24.ee/soidukid/3943756,Ford,1.6 110kW,151834,Bensiin,Tourneo Connect,Tourneo Connect,Automaat,2015,Kaubik,Esivedu,12490
+https://www.auto24.ee/soidukid/3973560,Toyota,1.8 73kW,177550,Hübriid (bensiin / elekter),Auris Hybrid HSD Luxury,Auris,Automaat,2015,Universaal,Esivedu,12490
+https://www.auto24.ee/soidukid/3776945,BMW,81kW,2300,Bensiin,R nineT,R nineT,Manuaal,2021,Klassikaline mootorratas,Tagavedu,12499
+https://www.auto24.ee/soidukid/3966807,Mercedes-Benz,1.8 R4 150kW,139000,Bensiin,E 250 Coupe CGI,E 250,Automaat,2010,Kupee,Tagavedu,12499
+https://www.auto24.ee/soidukid/3950107,Toyota,1.8 73kW,199860,Hübriid (bensiin / elekter),Prius Hybrid Synergy Drive,Prius,Automaat,2012,Luukpära,Esivedu,12499
+https://www.auto24.ee/soidukid/2952144,BMW,4.4 300kW,121439,Bensiin,X6 xDRIVE 50I,X6,Automaat,2012,Universaal,Nelikvedu,12500
+https://www.auto24.ee/soidukid/3935973,Volkswagen,1.4 110kW,239212,Bensiin,Passat,Passat,Automaat,2016,Universaal,Esivedu,12500
+https://www.auto24.ee/soidukid/3931851,Volkswagen,1.4 92kW,146117,Bensiin,Golf,Golf,Automaat,2018,Universaal,Esivedu,12600
+https://www.auto24.ee/soidukid/3953034,Skoda,1.8 TSI 132kW,176490,Bensiin,Octavia FL Ambition PLUS,Octavia,Automaat,2018,Universaal,Esivedu,12800
+https://www.auto24.ee/soidukid/3886277,Renault,1.6 dCi 89kW,135387,Diisel,Trafic,Trafic,Manuaal,2017,,Esivedu,12850
+https://www.auto24.ee/soidukid/3973130,Citroen,1.5 96kW,207401,Diisel,Berlingo L1 Shine BlueHDi 130AT,Berlingo,Automaat,2018,Mahtuniversaal,Esivedu,12900
+https://www.auto24.ee/soidukid/3881789,Dacia,1.0 67kW,16300,Bensiin,Sandero Stepway,Sandero,Manuaal,2022,Luukpära,Esivedu,12900
+https://www.auto24.ee/soidukid/3928665,Ford,118kW,136000,Bensiin,Mondeo 1.5 KW,Mondeo,Automaat,2018,Luukpära,Esivedu,12900
+https://www.auto24.ee/soidukid/3960331,Honda,2.0 114kW,104000,Bensiin,CR-V Lifestyle,CR-V,Automaat,2014,Mahtuniversaal,Nelikvedu,12900
+https://www.auto24.ee/soidukid/3973065,Kia,1.6 97kW,108000,Bensiin,Sportage,Sportage,Manuaal,2018,Luukpära,Esivedu,12900
+https://www.auto24.ee/soidukid/3963120,Mazda,66kW,97300,Bensiin,2 Skyactiv-g Premium 1.5,2,Automaat,2015,Luukpära,Esivedu,12900
+https://www.auto24.ee/soidukid/3945201,Peugeot,1.2 96kW,122000,Bensiin,3008 Active Plus PureTech 130,3008,Manuaal,2016,Universaal,Esivedu,12900
+https://www.auto24.ee/soidukid/3963772,Skoda,1.4 TSI 110kW,145208,Bensiin,Octavia Elegance,Octavia,Automaat,2017,Sedaan,Esivedu,12900
+https://www.auto24.ee/soidukid/3958458,Volkswagen,1.4 TSI 92kW,98553,Bensiin,Golf,Golf,Automaat,2017,Luukpära,Esivedu,12900
+https://www.auto24.ee/soidukid/3930204,Volkswagen,1.4 TSI 110kW,91000,Bensiin,Passat CC,Passat CC,Automaat,2016,Sedaan,Esivedu,12900
+https://www.auto24.ee/soidukid/3973019,Volkswagen,2.0 TDI 103kW,184936,Diisel,Sharan Highline 7K,Sharan,Automaat,2013,Mahtuniversaal,Esivedu,12900
+https://www.auto24.ee/soidukid/3969635,Volkswagen,2.0 TDI 103kW,216960,Diisel,Tiguan 4Motion,Tiguan,Automaat,2015,Universaal,Nelikvedu,12900
+https://www.auto24.ee/soidukid/3943970,Kia,1.4 MPi 73kW,48120,Bensiin,Ceed LX Plus,Ceed,Manuaal,2019,Luukpära,Esivedu,12990
+https://www.auto24.ee/soidukid/3886504,Kia,2.2 145kW,179670,Diisel,Sorento EX,Sorento,Automaat,2013,Universaal,Nelikvedu,12990
+https://www.auto24.ee/soidukid/3840625,Mazda,2.0 88kW,162820,Bensiin,3 Premium,3,Automaat,2015,Luukpära,Esivedu,12990
+https://www.auto24.ee/soidukid/3956603,Mazda,2.0 Skyactiv 121kW,140050,Bensiin,CX-5,CX-5,Manuaal,2016,Universaal,Esivedu,12990
+https://www.auto24.ee/soidukid/3975499,Peugeot,1.2 81kW,95605,Bensiin,Rifter L1 Active PureTech 110,Rifter,Manuaal,2020,Mahtuniversaal,Esivedu,12990
+https://www.auto24.ee/soidukid/3975274,Toyota,1.6 97kW,120169,Bensiin,Avensis Standard,Avensis,Manuaal,2017,Universaal,Esivedu,12995
+https://www.auto24.ee/soidukid/3975276,Toyota,1.5 54kW,60256,Hübriid (bensiin / elekter),Yaris Active,Yaris,Automaat,2016,Luukpära,Esivedu,12995
+https://www.auto24.ee/soidukid/3912587,Audi,3.0 150kW,244178,Diisel,A5 S-Line,A5,Automaat,2014,Luukpära,Esivedu,12999
+https://www.auto24.ee/soidukid/3962192,Audi,3.0 150kW,323297,Diisel,A7 Sportback,A7,Automaat,2012,Luukpära,Nelikvedu,12999
+https://www.auto24.ee/soidukid/3820637,Volkswagen,2.0 130kW,254573,Diisel,Tiguan 4Motion Sport & Style,Tiguan,Automaat,2014,Universaal,Nelikvedu,12999
+https://www.auto24.ee/soidukid/3965352,Volkswagen,1.4 R4 118kW,128500,Bensiin,Tiguan Trendline,Tiguan,Automaat,2015,Universaal,Esivedu,12999
+https://www.auto24.ee/soidukid/3951551,Audi,2.0 TFSI 132kW,146779,Bensiin,Q5 quattro,Q5,Manuaal,2012,Universaal,Nelikvedu,13000
+https://www.auto24.ee/soidukid/3959986,Skoda,1.8 TSI 132kW,86150,Bensiin,Superb Ambition,Superb,Automaat,2015,Sedaan,Esivedu,13000
+https://www.auto24.ee/soidukid/3854670,CFMOTO,V2 62kW,1,Bensiin,ZForce 950 Sport,ZForce 950,Automaat,2023,Bagi,Nelikvedu,13290
+https://www.auto24.ee/soidukid/3968582,BMW,R2 70kW,4800,Bensiin,F 850 GS,F 850 GS,Manuaal,2023,Enduro / supermoto,Tagavedu,13300
+https://www.auto24.ee/soidukid/3938372,Volkswagen,2.0 R4 TDI 110kW,168000,Diisel,Golf Variant Comfortline,Golf,Manuaal,2018,Universaal,Esivedu,13390
+https://www.auto24.ee/soidukid/3958620,Toyota,1.6 97kW,95380,Bensiin,Corolla Active,Corolla,Automaat,2017,Sedaan,Esivedu,13495
+https://www.auto24.ee/soidukid/3791405,BMW,75kW,69000,Elekter,i3,i3,Automaat,2015,Luukpära,Tagavedu,13499
+https://www.auto24.ee/soidukid/3975342,Lancia,2.8 CRD ECO 130kW,295000,Diisel,Voyager Grand Platinum Facelift MY 2015 Stow&go,Voyager,Automaat,2015,Mahtuniversaal,Esivedu,13499
+https://www.auto24.ee/soidukid/3974452,Ford,2.0 132kW,89200,Diisel,Mondeo,Mondeo,Automaat,2015,Luukpära,Esivedu,13500
+https://www.auto24.ee/soidukid/3933500,Volkswagen,2.0 110kW,174450,Diisel,Passat,Passat,Automaat,2014,Universaal,Esivedu,13500
+https://www.auto24.ee/soidukid/3942383,BMW,125kW,79300,Elekter,i3 eDrive 60Ah,i3,Automaat,2014,Luukpära,Tagavedu,13690
+https://www.auto24.ee/soidukid/3974664,BMW,2.0 R4 25d TwinPower Turbo 160kW,182950,Diisel,525 xDrive Touring Sport Package Assistance,525,Automaat,2012,Universaal,Nelikvedu,13700
+https://www.auto24.ee/soidukid/3975386,Volvo,2.0 D4 133kW,163000,Diisel,V60,V60,Automaat,2015,Universaal,Esivedu,13750
+https://www.auto24.ee/soidukid/3939008,Ford,1.0 92kW,109000,Bensiin,Focus Business EcoBoost,Focus,Automaat,2019,Luukpära,Esivedu,13890
+https://www.auto24.ee/soidukid/3946070,Volvo,2.4 147kW,326500,Diisel,XC90 Summum,XC90,Automaat,2012,Universaal,Nelikvedu,13890
+https://www.auto24.ee/soidukid/3909392,BMW,75kW,60595,Elekter,i3,i3,Automaat,2016,Sedaan,Tagavedu,13900
+https://www.auto24.ee/soidukid/3952487,BMW,bokser 92kW,43254,Bensiin,R 1200 GS ADVENTURE,R 1200 GS ADVENTURE,Manuaal,2016,Enduro / supermoto,Tagavedu,13900
+https://www.auto24.ee/soidukid/3905228,Citroen,1.5 75kW,97579,Diisel,Berlingo Live BlueHDi100,Berlingo,Manuaal,2019,Mahtuniversaal,Esivedu,13900
+https://www.auto24.ee/soidukid/3915576,Citroen,1.5 75kW,94076,Diisel,Berlingo Live BlueHDi100,Berlingo,Manuaal,2019,Mahtuniversaal,Esivedu,13900
+https://www.auto24.ee/soidukid/3870716,Ford,2.2 TDCi 92kW,170800,Diisel,Transit,Transit,Manuaal,2014,,Esivedu,13900
+https://www.auto24.ee/soidukid/3971004,Mazda,89kW,76000,Bensiin,CX-3 2.0,CX-3,Manuaal,2019,Luukpära,Esivedu,13900
+https://www.auto24.ee/soidukid/3900626,Skoda,1.8 132kW,145630,Bensiin,Octavia Combi Ambition Plus N1,Octavia,Automaat,2018,Universaal,Esivedu,13900
+https://www.auto24.ee/soidukid/3723893,Skoda,1.4 TSI 110kW,183290,Bensiin,Superb Combi Ambition,Superb,Manuaal,2016,Universaal,Esivedu,13900
+https://www.auto24.ee/soidukid/3961613,Toyota,1.6 97kW,118101,Bensiin,Auris Multidrive S,Auris,Automaat,2018,Luukpära,Esivedu,13900
+https://www.auto24.ee/soidukid/3750963,Volkswagen,1.6 TDI 88kW,204987,Diisel,Passat Variant Comfortline,Passat,Manuaal,2017,Universaal,Esivedu,13900
+https://www.auto24.ee/soidukid/3941467,Ford,2.0 96kW,162706,Diisel,Transit L4H3,Transit,Manuaal,2018,Kaubik,Tagavedu,13990
+https://www.auto24.ee/soidukid/3936474,Kia,1.4 MPi 73kW,65060,Bensiin,Stonic EX,Stonic,Manuaal,2018,Luukpära,Esivedu,13990
+https://www.auto24.ee/soidukid/3923377,Nissan,1.2 85kW,159000,Bensiin,Qashqai N-Connecta,Qashqai,Automaat,2018,Luukpära,Esivedu,13990
+https://www.auto24.ee/soidukid/3886419,Nissan,1.2 85kW,54950,Bensiin,Qashqai Visia,Qashqai,Automaat,2017,Universaal,Esivedu,13990
+https://www.auto24.ee/soidukid/3943802,Skoda,2.0 TDI 110kW,217786,Diisel,Octavia Combi Ambition 4x4 FL PLUS,Octavia,Manuaal,2018,Universaal,Nelikvedu,13990
+https://www.auto24.ee/soidukid/3963113,Toyota,1.6 97kW,53255,Bensiin,Auris Active,Auris,Manuaal,2018,Universaal,Esivedu,13995
+https://www.auto24.ee/soidukid/3963907,BMW,2.0 R4 120kW,250000,Diisel,320 d Sport Line,320,Automaat,2017,Universaal,Tagavedu,13999
+https://www.auto24.ee/soidukid/3952394,BMW,2.0 R4 135kW,184000,Diisel,320 d xDrive Sport Line,320,Automaat,2013,Universaal,Nelikvedu,13999
+https://www.auto24.ee/soidukid/3974324,BMW,3.0 R6 190kW,290000,Diisel,330,330,Automaat,2013,Universaal,Nelikvedu,13999
+https://www.auto24.ee/soidukid/3951933,Kia,2.2 CRDi 145kW,105817,Diisel,Sorento TX 4x4 Led+Cam Pack,Sorento,Automaat,2013,Universaal,Nelikvedu,13999
+https://www.auto24.ee/soidukid/3940481,Kia,2.2 CRDI 145kW,191966,Diisel,Sorento AWD Patinum Edition,Sorento,Automaat,2014,Universaal,Nelikvedu,14000
+https://www.auto24.ee/soidukid/3958459,Skoda,1.6 R4 88kW,177000,Diisel,Superb Combi Active,Superb,Automaat,2016,Universaal,Esivedu,14199
+https://www.auto24.ee/soidukid/3936995,Toyota,1.6 97kW,93047,Bensiin,Auris Active,Auris,Automaat,2017,Universaal,Esivedu,14395
+https://www.auto24.ee/soidukid/3955760,Ford,1.5 70kW,99410,Diisel,Focus MT,Focus,Manuaal,2018,Universaal,Esivedu,14480
+https://www.auto24.ee/soidukid/3969177,Volkswagen,1.4 110kW,78327,Bensiin,Golf Sportsvan R-Line,Golf Sportsvan,Automaat,2017,Luukpära,Esivedu,14500
+https://www.auto24.ee/soidukid/3960394,Volkswagen,1.4 92kW,45082,Bensiin,Tiguan,Tiguan,Manuaal,2016,Universaal,Esivedu,14500
+https://www.auto24.ee/soidukid/3940006,BMW,bokser 80kW,,Bensiin,R nineT Urban G/S,R nineT Urban G/S,Manuaal,,Klassikaline mootorratas,Tagavedu,14738
+https://www.auto24.ee/soidukid/3065845,CFMOTO,V2 58kW,,Bensiin,UForce 1000,UForce 1000,Automaat,2023,Muu,Nelikvedu,14790
+https://www.auto24.ee/soidukid/3966254,Nissan,1.2 DIG-T 85kW,94379,Bensiin,Qashqai Tekna Led+Nav+360Cam/ Pack,Qashqai,Automaat,2017,Universaal,Esivedu,14800
+https://www.auto24.ee/soidukid/3861645,Nissan,1.6 83kW,37300,Bensiin,Juke,Juke,Automaat,2019,Luukpära,Esivedu,14890
+https://www.auto24.ee/soidukid/3941342,Volvo,2.4 D5 147kW,229900,Diisel,XC90 Summum,XC90,Automaat,2011,Universaal,Nelikvedu,14890
+https://www.auto24.ee/soidukid/3974383,Honda,1.5 R4 96kW,99800,Bensiin,HR-V Executive Navi ADAS,HR-V,Automaat,2017,Mahtuniversaal,Esivedu,14899
+https://www.auto24.ee/soidukid/3965782,Volkswagen,1.4 R4 110kW,134000,Bensiin,Passat Comfortline,Passat,Automaat,2016,Sedaan,Esivedu,14899
+https://www.auto24.ee/soidukid/3935799,BMW,92kW,45564,Bensiin,R 1200 GS ADVENTURE,R 1200 GS ADVENTURE,Manuaal,2018,Enduro / supermoto,Tagavedu,14900
+https://www.auto24.ee/soidukid/3973308,BMW,92kW,45564,Bensiin,R 1200 GS Adventure MT,R 1200 GS ADVENTURE,Manuaal,2018,Sedaan,Tagavedu,14900
+https://www.auto24.ee/soidukid/3963908,Kia,1.6 85kW,77000,Diisel,cee'd Sportswagon,cee'd Sportswagon,Manuaal,2019,Universaal,Esivedu,14900
+https://www.auto24.ee/soidukid/3972505,Kia,1.4 103kW,82980,Bensiin,Ceed,Ceed,Automaat,2018,Luukpära,Esivedu,14900
